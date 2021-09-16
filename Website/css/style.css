@@ -7,7 +7,7 @@ body{
 
 header{
   background: black;
-  background-image: url("../me.JPG");
+  background-image: url("Website/me.JPG");
   background-size: 100%;
   background-position: center;
   height: 400px;
@@ -18,7 +18,7 @@ h1{
   text-align: center;
 }
 header .logo a{
-  background-image: url("../me.JPG");
+  background-image: url("Website/me.JPG");
   background-size: 300px;
   background-repeat: no-repeat;
   display: inline-block;
